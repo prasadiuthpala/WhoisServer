@@ -1,0 +1,2 @@
+CoppiedServer
+WhoisServer.CoppiedServer
